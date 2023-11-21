@@ -1,0 +1,8 @@
+vreme=vreme|required
+datum=datum|required
+dan=dan|required
+prostorija=prostor|required
+organizator=osoba|optional
+grupe=grupe|optional
+kapacitet=kapacitet|optional
+oprema=oprema|optional

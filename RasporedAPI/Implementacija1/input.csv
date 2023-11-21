@@ -1,0 +1,26 @@
+vreme,datum,dan,prostorija,organizator,grupe,kapacitet,oprema
+10:00-12:00,2023-09-10 2023-09-30,Sreda,K1,Marko,Prva grupa,30,Projektor Masina CNC
+12:30-45,2001-10-12 2001-10-30,Petak,K3,Ana,Druga grupa,25,Tabla
+09:15-120,2023-11-15,Utorak,K2,Aca Lukas,Treca,10,Klupa
+14:00-17:00,2002-11-30 2002-12-10,Sreda,K4,Milan,raf302,50,
+07:00-12:00,2002-11-30,Subota,K4,Milan,,50,
+10:00-12:00,2023-09-12,Ponedeljak,K1,Marko,Prva grupa,30,Projektor
+10:00-12:00,2023-09-15,Četvrtak,K2,Ana,Druga grupa,25,Bela tabla
+13:00-15:00,2023-09-18,Ponedeljak,K3,Jovan,Treća grupa,40,Računar
+14:00-16:00,2023-09-20,Sreda,K4,Milica,Četvrta grupa,20,Mikrofon
+11:00-13:00,2023-09-25,Petak,K1,Stefan,Prva grupa,35,Projektor
+09:00-11:00,2023-09-28,Utorak,K2,Jovana,Druga grupa,28,Bela tabla
+12:00-14:00,2023-10-03,Četvrtak,K3,Nenad,Treća grupa,45,Računar
+15:00-17:00,2023-10-07,Ponedeljak,K4,Marija,Četvrta grupa,22,Mikrofon
+10:30-12:30,2023-10-12,Sreda,K1,Dušan,Prva grupa,33,Projektor
+13:30-15:30,2023-10-16,Utorak,K2,Tamara,Druga grupa,26,Bela tabla
+11:30-13:30,2023-10-20,Petak,K3,Aleksandar,Treća grupa,38,Računar
+14:30-16:30,2023-10-25,Ponedeljak,K4,Milica,Četvrta grupa,18,Mikrofon
+09:30-11:30,2023-10-30,Sreda,K1,Nikola,Prva grupa,32,Projektor
+12:30-14:30,2023-11-03,Četvrtak,K2,Ivana,Druga grupa,27,Bela tabla
+15:30-17:30,2023-11-08,Ponedeljak,K3, Filip,Treća grupa,42,Računar
+10:45-12:45,2023-11-12,Utorak,K4,Milica,Četvrta grupa,21,Mikrofon
+13:45-15:45,2023-11-16,Petak,K1,Lazar,Prva grupa,34,Projektor
+11:45-13:45,2023-11-20,Sreda,K2,Milena, Druga grupa,29,Bela tabla
+14:45-16:45,2023-11-24,Četvrtak,K3,Stefanija,Treća grupa,44,Računar
+09:15-11:15,2023-11-29,Ponedeljak,K4,Aleksandra,Četvrta grupa,23,Mikrofon
